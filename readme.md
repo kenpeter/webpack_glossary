@@ -81,4 +81,4 @@ module.exports = {
 * [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ)
 
 # Webpack multiple entry points
-* [https://www.youtube.com/watch?v=_yDHz5ESgrc](https://www.youtube.com/watch?v=_yDHz5ESgrc)
+* [Webpack multiple entry points - ProgrammingTIL Webpack Video Tutorial Screencast 0004](https://www.youtube.com/watch?v=_yDHz5ESgrc)
