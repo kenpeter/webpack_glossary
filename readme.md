@@ -83,3 +83,6 @@ module.exports = {
 # Webpack multiple entry points
 * [Webpack multiple entry points - ProgrammingTIL Webpack Video Tutorial Screencast 0004](https://www.youtube.com/watch?v=_yDHz5ESgrc)
 * [Webpack Config Basics - 3. Multiple entry points](https://www.youtube.com/watch?v=dt_9ttDw6lA)
+
+# Path
+* [Absolute and Relative Paths](https://www.youtube.com/watch?v=ephId3mYu9o)
