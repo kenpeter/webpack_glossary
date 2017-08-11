@@ -79,3 +79,6 @@ module.exports = {
 * [WHAT IS WEBPACK, HOW DOES IT WORK? | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=GU-2T7k9NfI)
 * [Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 * [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ)
+
+# Webpack multiple entry points
+* [https://www.youtube.com/watch?v=_yDHz5ESgrc](https://www.youtube.com/watch?v=_yDHz5ESgrc)
