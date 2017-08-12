@@ -112,3 +112,6 @@ module.exports = config;
 * From my understanding is that, webpack dev server serves javascript, css etc from the ```publicPath```. Like how you define a localhost in your machine.
 * [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ&t=977s)
 . At around 6:48
+
+# What is module?
+* [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ). At around 7:44
