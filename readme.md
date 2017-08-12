@@ -104,3 +104,9 @@ module.exports = config;
 # What is output path?
 * It require absolute path. Normally it uses path.join to resolve the absolute path.
 * [Output - Changing your bundle location!](https://webpack.academy/courses/the-core-concepts/lectures/2951148)
+
+# What is output filename?
+* ```/path/to/your/project/dist/bundle.js```. It writes into disk.
+
+# What is publicPath in output?
+* 
