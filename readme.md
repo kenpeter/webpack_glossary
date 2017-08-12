@@ -81,7 +81,7 @@ module.exports = {
 * [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ)
 
 # What is single entry point in Webpack?
-Starting point of your app.
+* Starting point of your app.
 ```
 const config = {
   entry: './path/to/my/entry/file.js'
@@ -99,4 +99,8 @@ module.exports = config;
 * [Absolute and Relative Paths](https://www.youtube.com/watch?v=ephId3mYu9o)
 
 # What is output?
+* [Output - Changing your bundle location!](https://webpack.academy/courses/the-core-concepts/lectures/2951148)
+
+# What is output path?
+* It require absolute path. Normally it uses path.join to resolve the absolute path.
 * [Output - Changing your bundle location!](https://webpack.academy/courses/the-core-concepts/lectures/2951148)
