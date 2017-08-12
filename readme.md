@@ -97,3 +97,6 @@ module.exports = config;
 
 # Path
 * [Absolute and Relative Paths](https://www.youtube.com/watch?v=ephId3mYu9o)
+
+# What is output?
+* [Output - Changing your bundle location!](https://webpack.academy/courses/the-core-concepts/lectures/2951148)
