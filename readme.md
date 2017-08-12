@@ -109,4 +109,5 @@ module.exports = config;
 * ```/path/to/your/project/dist/bundle.js```. It writes into disk.
 
 # What is publicPath in output?
-* 
+* [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ&t=977s)
+At around 6:48
