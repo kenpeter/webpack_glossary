@@ -80,6 +80,17 @@ module.exports = {
 * [Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 * [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ)
 
+# What is single entry point in Webpack?
+Starting point of your app.
+```
+const config = {
+  entry: './path/to/my/entry/file.js'
+};
+
+module.exports = config;
+```
+
+
 # Webpack multiple entry points
 * [Webpack multiple entry points - ProgrammingTIL Webpack Video Tutorial Screencast 0004](https://www.youtube.com/watch?v=_yDHz5ESgrc)
 * [Webpack Config Basics - 3. Multiple entry points](https://www.youtube.com/watch?v=dt_9ttDw6lA)
