@@ -110,4 +110,4 @@ module.exports = config;
 
 # What is publicPath in output?
 * [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ&t=977s)
-At around 6:48
+. At around 6:48
