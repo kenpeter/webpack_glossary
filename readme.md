@@ -141,3 +141,6 @@ module.exports = config;
 # What is babel?
 * [https://www.youtube.com/watch?v=8vnkM8JgjpU](https://www.youtube.com/watch?v=8vnkM8JgjpU)
 * [Start Coding ES6 With Babel: Introduction](https://www.youtube.com/watch?v=t8HBL17uhBo)
+
+# What is preset?
+* [What are Babel "plugins" and "presets"? (And how to use them)](https://www.fullstackreact.com/articles/what-are-babel-plugins-and-presets/)
