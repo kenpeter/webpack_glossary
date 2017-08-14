@@ -147,3 +147,6 @@ module.exports = config;
 
 # What is stage-0, stage-1, etc?
 * [What are Babel "plugins" and "presets"? (And how to use them)](https://www.fullstackreact.com/articles/what-are-babel-plugins-and-presets/)
+
+# ES5, ES6, ES2015, etc, confused?
+* [ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?](https://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/)
