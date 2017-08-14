@@ -114,4 +114,6 @@ module.exports = config;
 . At around 6:48
 
 # What is module?
-* [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ). At around 7:44 
+* [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ). At around 7:44
+
+# What is rule in module?
