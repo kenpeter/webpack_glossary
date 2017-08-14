@@ -153,3 +153,7 @@ module.exports = config;
 
 # HTML an Image loader
 * [HTML + IMAGE LOADERS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=CzLiXgRUt4g&t=2s)
+
+
+# What is html-webpack-plugin?
+* [Webpack 2 - HTML Webpack Plugin](https://www.youtube.com/watch?v=cKTDYSK0ArI)
