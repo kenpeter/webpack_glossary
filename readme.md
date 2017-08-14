@@ -137,3 +137,6 @@ module.exports = config;
 
 # What is babel loader?
 * [Webpack Tutorial for Beginners #4 - Babel Loaders](https://www.youtube.com/watch?v=H_QACBSqRBE)
+
+# What is babel?
+* [https://www.youtube.com/watch?v=8vnkM8JgjpU](https://www.youtube.com/watch?v=8vnkM8JgjpU)
