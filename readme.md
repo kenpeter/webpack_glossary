@@ -125,5 +125,11 @@ module.exports = config;
 # What is use in rule in module?
 * [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ). At round 12:10
 
-# Style loader before css loader in module?
+# Style loader before css loader in module
 * [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ). At round 14:23
+
+# What is plugin?
+* [THE WEBPACK CORE CONCEPTS | Webpack 2 Basics Tutorial](https://www.youtube.com/watch?v=8DDVr6wjJzQ). At round 15:28
+
+# What is extract-text-webpack-plugin?
+* [Export Your CSS with the extract-text-webpack-plugin - Ep. 4](https://www.youtube.com/watch?v=-j_90uQw-Iw)
