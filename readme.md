@@ -144,3 +144,6 @@ module.exports = config;
 
 # What is preset?
 * [What are Babel "plugins" and "presets"? (And how to use them)](https://www.fullstackreact.com/articles/what-are-babel-plugins-and-presets/)
+
+# What is stage-0, stage-1, etc?
+* [What are Babel "plugins" and "presets"? (And how to use them)](https://www.fullstackreact.com/articles/what-are-babel-plugins-and-presets/)
