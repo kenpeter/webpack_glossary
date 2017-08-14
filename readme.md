@@ -133,3 +133,4 @@ module.exports = config;
 
 # What is extract-text-webpack-plugin?
 * [Export Your CSS with the extract-text-webpack-plugin - Ep. 4](https://www.youtube.com/watch?v=-j_90uQw-Iw)
+* [Webpack & CSS - 7. Extract text plugin](https://www.youtube.com/watch?v=U9pYH5ESOb8)
