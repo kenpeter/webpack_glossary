@@ -3,8 +3,7 @@
 I found that there are lots of unfamiliar terms in Webpack configuration. When I first time encounter
 those terms, I read the official doc, examples, Stackoverflow, etc. I still have
 no idea what they are talking about, but I am able to find a better explanation in a Youtube video.
-This repository hosts video (mostly) and text explanation of a particular term in Webpack. Contribution is welcome and sorry
-about my English.
+This repository hosts video (mostly) and text explanation of a particular term in Webpack. Contribution is welcome and sorry about my English.
 
 I realise that it is very important to know a particular term in deeper level.
 
